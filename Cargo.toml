@@ -30,7 +30,7 @@ serde =            { version = "1",    default-features = false, features = ["de
 serde_json =       { version = "1",    default-features = false }
 base64 =           { version = "0.21", default-features = false }
 lazy_static =      { version = "1",    default-features = false }
-dotenv =           { version = "0.15", default-features = false }
+dotenvy =          { version = "0.15", default-features = false }
 openssl =          { version = "0.10", default-features = false, optional = true }
 ring =             { version = "0.16", default-features = false, optional = true }
 pem =              { version = "3.0",  default-features = false, features = ["std"], optional = true }

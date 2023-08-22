@@ -3,3 +3,4 @@ Cargo.lock
 .env
 myfile.txt
 auth.json
+.idea
